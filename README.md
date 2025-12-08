@@ -107,7 +107,7 @@ O endpoint GET /employees suporta ordenação através do parâmetro sort.
 - [SQLite] como base de dados local/anexada ao projeto  
 - [Dapper] para acesso a dados  
 - [Swagger / Swashbuckle] para documentação da API  
-- React  para o frontend
+- [React]  para o frontend
 
 ---
 
