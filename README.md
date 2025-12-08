@@ -103,8 +103,8 @@ O endpoint GET /employees suporta ordenação através do parâmetro sort.
 
 ## 🧰 Tecnologias Utilizadas
 
-- [.NET 8](https://dotnet.microsoft.com/) / ASP.NET Core Web API  
-- [SQLite](https://www.sqlite.org/index.html) como base de dados local/anexada ao projeto  
+- [.NET 8] / ASP.NET Core Web API  
+- [SQLite] como base de dados local/anexada ao projeto  
 - [Dapper] para acesso a dados  
 - [Swagger / Swashbuckle] para documentação da API  
 - React  para o frontend
