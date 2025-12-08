@@ -98,7 +98,6 @@ O endpoint GET /employees suporta ordenação através do parâmetro sort.
 **Exemplos:**
 - GET /employees?sort=+Name
 - GET /employees?sort=-YearsOfExperience
-- GET /employees?sort=+Name&search=react
 
 ---
 
