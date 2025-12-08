@@ -19,6 +19,7 @@ O objetivo é demonstrar uma solução simples mas completa, com API REST, persi
 
 **Frontend – Employees.Frontend**
 
+- cd .\Employees.Frontend\
 - npm install
 - npm run dev
   
