@@ -78,6 +78,8 @@ A API está protegida com API Key, enviada sempre no header:
 A chave encontra-se no ficheiro:
 - Employees.Api/appsettings.json
 
+---
+
 ## ↕️ Ordenação (Sort) no Endpoint GET /employees
 
 O endpoint GET /employees suporta ordenação através do parâmetro sort.
