@@ -73,12 +73,10 @@ Este projeto está dividido em:
 
 ## 🔐 Autenticação: API Key
 A API está protegida com API Key, enviada sempre no header:
-- X-Api-Key: <chave>
+- X-Api-Key: **<chave>**
 
 A chave encontra-se no ficheiro:
 - Employees.Api/appsettings.json
-  
----
 
 ## Ordenação (Sort) no Endpoint GET /employees
 
@@ -96,9 +94,9 @@ O endpoint GET /employees suporta ordenação através do parâmetro sort.
 - "YearsOfExperience"
 
 **Exemplos:**
-GET /employees?sort=+Name
-GET /employees?sort=-YearsOfExperience
-GET /employees?sort=+Name&search=react
+- GET /employees?sort=+Name
+- GET /employees?sort=-YearsOfExperience
+- GET /employees?sort=+Name&search=react
 
 ---
 
