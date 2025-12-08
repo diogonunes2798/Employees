@@ -73,7 +73,7 @@ Este projeto está dividido em:
 
 ## 🔐 Autenticação: API Key
 A API está protegida com API Key, enviada sempre no header:
-- X-Api-Key: **<chave>**
+- X-Api-Key: '<chave>'
 
 A chave encontra-se no ficheiro:
 - Employees.Api/appsettings.json
