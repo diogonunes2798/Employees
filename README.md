@@ -4,7 +4,7 @@ Aplicação completa para gestão de colaboradores (Employees) composta por:
 - Employees.Api – Web API em .NET 8 com CRUD completo
 - Employees.Frontend – Aplicação em React (Vite) para consumir a API
 
-O objetivo é demonstrar uma solução simples mas completa, com API REST, persistência em SQLite, frontend leve, pesquisa, ordenação e boas práticas de clean architecture.
+O objetivo é demonstrar uma solução simples mas completa, com API REST, persistência em SQLite, frontend leve, pesquisa, ordenação e boas práticas de architecture.
 
 ---
 ## 🚀Correr Projeto
